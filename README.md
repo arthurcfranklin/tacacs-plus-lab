@@ -22,6 +22,7 @@ Implementar uma solução TACACS+ para autenticação centralizada AAA em dispos
 ## Tecnologias e Conceitos
 
 - Linux
+- Ubuntu Server 22.04 LTS
 - TACACS+
 - AAA
 - Redes de Computadores
