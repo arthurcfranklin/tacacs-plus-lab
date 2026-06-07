@@ -1,4 +1,8 @@
 # Implantação de TACACS+ para Centralização da Autenticação AAA
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%2024.04-orange)
+![TACACS+](https://img.shields.io/badge/TACACS+-AAA-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 Projeto de implantação de servidor TACACS+ para centralização da autenticação administrativa em equipamentos de rede, com foco em segurança, controle de acesso e rastreabilidade de ações.
 
@@ -18,6 +22,19 @@ Implementar uma solução TACACS+ para autenticação centralizada AAA em dispos
 - Configuração de políticas AAA
 - Implementação de fallback local
 - Validação de autenticação e logs administrativos
+
+## Roadmap
+
+- [x] Configuração da VM
+- [x] Instalação de dependências
+- [x] Compilação do TACACS+
+- [x] Configuração inicial
+- [x] Validação operacional
+- [ ] Integração com switches
+- [ ] Configuração AAA
+- [ ] Validação de autenticação
+- [ ] Implementação de fallback local
+- [ ] Validação de logs administrativos
 
 ## Tecnologias e Conceitos
 
