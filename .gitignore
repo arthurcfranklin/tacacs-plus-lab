@@ -216,3 +216,37 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Linux
+*.log
+*.tmp
+
+# Backups
+*.bak
+*.old
+
+# Environment variables
+.env
+
+# SSH Keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# TACACS
+*.pcap
+*.cap
