@@ -48,18 +48,8 @@ Implementar uma solução TACACS+ para autenticação centralizada AAA em dispos
 - Troubleshooting
 - Documentação Técnica
 
-## Arquitetura Proposta
+## Topologia
 
-```text
-Administrador
-     |
-     | SSH
-     v
-Switch / Roteador
-     |
-     | TACACS+
-     v
-Servidor TACACS+
-     |
-     v
-Logs Administrativos
+![Topologia TACACS+](diagrams/topologia.png)
+
+> Topologia conceitual utilizada para demonstrar a arquitetura de autenticação centralizada AAA com TACACS+.
